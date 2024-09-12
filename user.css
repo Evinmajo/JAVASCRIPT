@@ -1,0 +1,24 @@
+.userdetails{
+    font-size: 40px;
+    color: green;
+    height: 50px;
+    width: 475px;
+    text-align: center;
+}
+.user_main{
+    height: 500px;
+    width: 600px;
+    margin: auto;
+    margin-top: 100px;
+    border: 5px solid red;
+    /* padding-left: 100px;*/
+    padding-top: 100px; 
+    justify-content: center;
+    background-color: rgb(250, 206, 187);
+}
+#userDetails{
+    height: 450px;
+    width: 450px;
+    padding-left: 120px;
+    font-size: 22px;
+}
